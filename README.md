@@ -5,4 +5,4 @@ Dr. Abadi<br />
 B ME 450<br />
 3/2/20<br />
 <p align="center">
-<b>Code Link: https://github.com/shansiddi/Meteorology-/blob/master/main.ipynb</b><br>
+<b>Code Link: https://github.com/shansiddi/Plate-Tectonics/blob/master/main.ipynb</b><br>
