@@ -79,7 +79,7 @@ Results 3 b.) Maximum, minimum, and average magnitude for all boundaries, a dive
 <p align="center">
 <b>figure 7: Raw Data Comparing Boundary Types</b><br>  
   
-Results 3 c.) On April 24th 2015 the Axial Seamount underwater volcano exploded triggering significant seismic activity [4]. 8000 earthquakes in one day were recorded around the world. The Axial Seamount is off the coast of Oregon on the divergence boundary. So, earthquakes can be observed on the divergence boundary as well as the surrounding transform boundaries. All the boundaries are the same plates interacting so stresses can propogate to cause earthquake. See figure 8 for a Magnitude vs Time plot of April 2015 and figure 9 for a map showing where the earthquakes occur. Note that earthquakes occur around the Cable Axial Seamount and spread along the plate boundaries.
+Results 3 c.) On April 24th 2015 the Axial Seamount underwater volcano exploded triggering significant seismic activity [4]. 8000 earthquakes in one day were recorded around the world. The Axial Seamount is off the coast of Oregon on the divergence boundary. So, earthquakes can be observed on the divergence boundary as well as the surrounding transform boundaries. All the boundaries are the same plates interacting so stresses can propogate to cause earthquake. See figure 8 for a Magnitude vs Time plot of April 2015 and figure 9 for a map showing where the earthquakes occur. Note that earthquakes occur around the Cable Axial Seamount and spread along the plate boundaries. Also note that on the magnitude versus time graph the strongest earthquakes come on April 24th 2015 correlating them with the Axial Seamount erruption.
 
 ![](images/fig8.png)
 <p align="center">
@@ -92,6 +92,8 @@ Results 3 c.) On April 24th 2015 the Axial Seamount underwater volcano exploded 
 Results 3 d.) Earthquakes occur mainly on plate boundaries, but not all boundaries are created equal. The earthquakes of a transform boundary are more powerful than on a convergence. In both the magnitude vs time plots of problem 1 and the averages of problem 3b the transform boundary produced more powerful earthquakes than the divergence. 
 
 <b>Conclusions</b><br>
+Data from the USGS for the seismic activity in the pacific north west was analyzed between 2010 and 2020. Trends were correlated to physical plate boundaries and the expected earthquake locations and size were compared with online literature. In general transform boundaries show stronger earthquakes than divergence boundaries on both magnitude versus time data and average magnitude. The average magnitude of the transform was 3.59 while the divergence was 3.3. Earthquakes were found to occur on grain boundaries rather than the middle of the plate as it is the relative motion of the earth's tectonic plates which generates earthquakes. Finally, a particularly eventful month for seismic activity April 2015 was presented. The unusual seismic activity was correlated with the erruption of the Axial Seamount underwater volcano simply by comparing timing of the explosion with activity. 
+
 
 References
 
