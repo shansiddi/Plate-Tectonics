@@ -33,7 +33,7 @@ A single transform and divergence boundary were selected for analysis. See figur
 
 ![](images/fig2.jpg)
 <p align="center">
-<b>figure 2: Juan De Fuca plate and North American plate boundary, Orange circles are the selected boundaries[2]</b><br>
+<b>figure 2: Juan De Fuca plate and North American plate boundary, Orange circles are the selected boundaries [2]</b><br>
 
 
 <b>Methods</b><br>
