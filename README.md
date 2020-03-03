@@ -35,7 +35,7 @@ A single transform and divergence boundary were selected for analysis. See figur
 <b>figure 2: Juan De Fuca plate and North American plate boundary, Orange circles are the selected boundaries [2]</b><br>  
 
 <b>Methods</b><br>
-Python scripts in Jupyter Notebook were written to address the problems. See link at top of readme for complete code, run with Jupyter Notebook or Google colab.
+Python scripts in Jupyter Notebook were written to address the problems. See link at top of readme for complete code, run with Jupyter Notebook or Google colab maps do not compile in github.
 
 Method 1) Broader data from all plate boundaries of the pacific Northwest as well as the specific divergence and transform boundaries were pulled from the USGS website. Longitude, latitude, time, and magnitude of earthquake were recorded as vectors for plotting. Magnitude versus time was plotted using the matplotlib python extension.
 
