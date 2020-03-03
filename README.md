@@ -47,9 +47,15 @@ Method 3 b.) Minimum and maximum function was computed with the in house python 
 
 Method 3 c.) Literature and news was searched to correlate data of April 2015 with a siesmic event. Data for the month of April 2015 was selected to show siesmic activity in just that month. 
 
-Method 3 d.) 
+Method 3 d.) Data for all boundary types as well as the whole plate boundary was compared with literature to find explanations of trends.
 
 <b>Results</b><br>
+
+Results 1) Magnitude versus time for all the boundary types revealed the relative frequency of earthquakes. See figure 3 for all boundary types, divergence, and transform.
+
+![](images/fig3.png)
+<p align="center">
+<b>figure 3: Magnitude vs Time Plots</b><br> 
 
 <b>Conclusions</b><br>
 
