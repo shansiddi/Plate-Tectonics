@@ -7,7 +7,7 @@ B ME 450<br />
 <b>Code Link: https://github.com/shansiddi/Plate-Tectonics/blob/master/main.ipynb</b><br>
 
 <b>Introduction</b><br>
-Analysis of earthquakes in the pacific north west 2010 to 2020 was conducted to further understanding of local geology. Seismic data was found on the USGS website and compared across various tectonic plate boundaries and time scales. The Pacific Northwest is home to all three types of plate boundaries. The interaction between the Juan De Fuca plate and the pacific plate contains a divergence, transform and convergence boundaries; see figure 1 for the plates of the world.
+Analysis of earthquakes in the pacific north west 2010 to 2020 was conducted to further understanding of local geology. Seismic data was found on the USGS website and compared across various tectonic plate boundaries and time scales. The Pacific Northwest is home to all three types of plate boundaries. The interaction between the Juan De Fuca plate and the North American plate contains divergence, transform and convergence boundaries; see figure 1 for the plates of the world.
 
 ![](images/fig1.jpg)
 <p align="center">
@@ -18,7 +18,7 @@ The analysis focused on comparing and contrasting divergence and trasform bounda
 Problem 1) Plot earthquake magnitude versus time for the entire plate boundary, a transform boundary, and a divergence boundary. 
 
 Problem 2) Show earthquake locations (lat and lon) on a map by circles. The radius of these circles
-should be proportional to the earthquake magnitude.
+should be proportional to the earthquake magnitude for the entire boundary, a transform boundary, and a divergence boundary.
 
 Problem 3) a. Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
 b. What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area (all boundaries)? 
@@ -26,8 +26,15 @@ c. Map the earthquakes in April 2015. Where are those earthquakes mostly located
 to? 
 d. What kind of patterns in earthquake magnitude and location you observe over time along each boundary (compare the boundary types)?
 
+A single transform and divergence boundary were selected for analysis. See figure 2 for the selections.
+
+![](images/fig2.jpg)
+<p align="center">
+<b>figure 2: Juan De Fuca plate and North American plate boundary, Orange circles are the selected boundaries[1]</b><br>
+
 
 <b>Methods</b><br>
+Python scripts were employed to 
 
 <b>Results</b><br>
 
