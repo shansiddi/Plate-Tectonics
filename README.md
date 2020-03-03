@@ -4,10 +4,10 @@ Dr. Abadi<br />
 B ME 450<br />
 3/2/20<br />
 <p align="center">
-<b>Code Link: https://github.com/shansiddi/Plate-Tectonics/blob/master/main.ipynb</b><br>
+<b>Code Link (note maps do not load on Github, run on Jupyter Notebook): https://github.com/shansiddi/Plate-Tectonics/blob/master/main.ipynb</b><br>
 
 <b>Introduction</b><br>
-Analysis of earthquakes in the pacific north west 2010 to 2020 was conducted to further understanding of local geology. Seismic data was found on the USGS website and compared across various tectonic plate boundaries and time scales. The Pacific Northwest is home to all three types of plate boundaries. The interaction between the Juan De Fuca plate and the North American plate contains divergence, transform and convergence boundaries; see figure 1 for the plates of the world.
+Analysis of earthquakes in the pacific north west 2010 to 2020 was conducted to further understanding of local geology. Seismic data was found on the USGS website and compared across various tectonic plate boundaries and time scales [3]. The Pacific Northwest is home to all three types of plate boundaries. The interaction between the Juan De Fuca plate and the North American plate contains divergence, transform and convergence boundaries; see figure 1 for the plates of the world.
 
 ![](images/fig1.jpg)
 <p align="center">
@@ -33,11 +33,14 @@ A single transform and divergence boundary were selected for analysis. See figur
 
 ![](images/fig2.jpg)
 <p align="center">
-<b>figure 2: Juan De Fuca plate and North American plate boundary, Orange circles are the selected boundaries [2]</b><br>
-
+<b>figure 2: Juan De Fuca plate and North American plate boundary, Orange circles are the selected boundaries [2]</b><br>  
 
 <b>Methods</b><br>
-Python scripts were employed to 
+Python scripts in Jupyter Notebook were written to address the problems. See link at top of readme for complete code, run with Jupyter Notebook.
+
+Method 1) Broader data from all plate boundaries of the pacific Northwest as well as the specific divergence and transform boundaries were pulled from the USGS website. Longitude, latitude, time, and magnitude of earthquake were recorded as vectors for plotting. Magnitude versus time was plotted using the matplotlib python extension.
+
+Method 2) 
 
 <b>Results</b><br>
 
