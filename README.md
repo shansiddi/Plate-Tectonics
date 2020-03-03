@@ -18,3 +18,8 @@ B ME 450<br />
 
 References
 
+[1] Latest Earthquakes. [Online]. Available: https://earthquake.usgs.gov/earthquakes/map/. [Accessed: 03-Mar-2020].
+
+[2] C. Brosseau, “A volcano may be erupting off the Oregon coast, scientists say,” oregonlive, 01-May-2015. [Online]. Available: https://www.oregonlive.com/pacific-northwest-news/2015/04/a_volcano_may_be_erupting_off.html?fbclid=IwAR2peQzYorW7RngYXSsgJoxPQHl9Nx0T1_56l3yjti3C5Dcr-uU1wVt9iyY. [Accessed: 03-Mar-2020].
+
+[3] Plate Tectonics - A Scientific Revolution. [Online]. Available: http://academic.brooklyn.cuny.edu/geology/grocha/plates/platetec16.htm. [Accessed: 03-Mar-2020].
