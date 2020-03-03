@@ -4,7 +4,7 @@ Dr. Abadi<br />
 B ME 450<br />
 3/2/20<br />
 <p align="center">
-<b>Code Link (note maps do not load on Github, run on Jupyter Notebook): https://github.com/shansiddi/Plate-Tectonics/blob/master/main.ipynb</b><br>
+<b>Code Link (note maps do not load on Github, run on Jupyter Notebook or Google Colab): https://github.com/shansiddi/Plate-Tectonics/blob/master/main.ipynb</b><br>
 
 <b>Introduction</b><br>
 Analysis of earthquakes in the pacific north west 2010 to 2020 was conducted to further understanding of local geology. Seismic data was found on the USGS website and compared across various tectonic plate boundaries and time scales [3]. The Pacific Northwest is home to all three types of plate boundaries. The interaction between the Juan De Fuca plate and the North American plate contains divergence, transform and convergence boundaries; see figure 1 for the plates of the world.
