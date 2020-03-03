@@ -24,8 +24,7 @@ Problem 3 a.) Across what geographic area are you able to observe earthquake dat
 
 Problem 3 b.) What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area (all boundaries)? 
 
-Problem 3 c.) Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes
-to? 
+Problem 3 c.) Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes to? 
 
 Problem 3 d.) What kind of patterns in earthquake magnitude and location you observe over time along each boundary (compare the boundary types)?
 
@@ -36,11 +35,19 @@ A single transform and divergence boundary were selected for analysis. See figur
 <b>figure 2: Juan De Fuca plate and North American plate boundary, Orange circles are the selected boundaries [2]</b><br>  
 
 <b>Methods</b><br>
-Python scripts in Jupyter Notebook were written to address the problems. See link at top of readme for complete code, run with Jupyter Notebook.
+Python scripts in Jupyter Notebook were written to address the problems. See link at top of readme for complete code, run with Jupyter Notebook or Google colab.
 
 Method 1) Broader data from all plate boundaries of the pacific Northwest as well as the specific divergence and transform boundaries were pulled from the USGS website. Longitude, latitude, time, and magnitude of earthquake were recorded as vectors for plotting. Magnitude versus time was plotted using the matplotlib python extension.
 
-Method 2) 
+Method 2) The geoviews package was used to construct a map of the world. On top of the map latitude and longitude of the earthquakes were superimposed to show location. Then the size of the points was scaled according to the magnitude of the earthquakes.
+
+Method 3 a.) Information from literature about plate tectonics was compared and fit within the data collected. Relationships were found between the location of earthquakes and the plate boundaries they sat on. 
+
+Method 3 b.) Minimum and maximum function was computed with the in house python code. The Numpy python package was used to average magnitude data.
+
+Method 3 c.) Literature and news was searched to correlate data of April 2015 with a siesmic event. Data for the month of April 2015 was selected to show siesmic activity in just that month. 
+
+Method 3 d.) 
 
 <b>Results</b><br>
 
