@@ -39,7 +39,7 @@ Python scripts in Jupyter Notebook were written to address the problems. See lin
 
 Method 1) Broader data from all plate boundaries of the pacific Northwest as well as the specific divergence and transform boundaries were pulled from the USGS website. Longitude, latitude, time, and magnitude of earthquake were recorded as vectors for plotting. Magnitude versus time was plotted using the matplotlib python extension.
 
-Method 2) The geoviews package was used to construct a map of the world. On top of the map latitude and longitude of the earthquakes were superimposed to show location. Then the size of the points was scaled according to the magnitude of the earthquakes.
+Method 2) The geoviews package was used to construct a map of the world. On top of the map latitude and longitude of the earthquakes were superimposed to show location. Then the size of the points were scaled according to the magnitude of the earthquakes.
 
 Method 3 a.) Information from literature about plate tectonics was compared and fit within the data collected. Relationships were found between the location of earthquakes and the plate boundaries they sat on. 
 
