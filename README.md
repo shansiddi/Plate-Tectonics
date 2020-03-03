@@ -45,19 +45,51 @@ Method 3 a.) Information from literature about plate tectonics was compared and 
 
 Method 3 b.) Minimum and maximum function was computed with the in house python code. The Numpy python package was used to average magnitude data.
 
-Method 3 c.) Literature and news was searched to correlate data of April 2015 with a siesmic event. Data for the month of April 2015 was selected to show siesmic activity in just that month. 
+Method 3 c.) Literature and news was searched to correlate data of April 2015 with a seismic event. Data for the month of April 2015 was selected to show seismic activity in just that month. 
 
 Method 3 d.) Data for all boundary types as well as the whole plate boundary was compared with literature to find explanations of trends.
 
 <b>Results</b><br>
 
-Results 1) Magnitude versus time for all the boundary types revealed the relative frequency of earthquakes. See figure 3 for all boundary types, divergence, and transform.
+Results 1) Magnitude versus time for all the boundary types revealed the relative frequency of earthquakes. See figure 3 for all boundary types, divergence, and transform. Earthquakes on transform boundary appeared to be stronger than divergence. This inclination was confirmed by average results in problem 3b. 
 
 ![](images/fig3.png)
 <p align="center">
 <b>figure 3: Magnitude vs Time Plots</b><br> 
   
-Results 2)   
+Results 2) Locations of earthquakes were superimposed on the world map. The dots signifying the earthquakes were scaled to the relative magnitude. See figures 4, 5, and 6 for maps showing data.
+
+![](images/fig4.png)
+<p align="center">
+<b>figure 4: All Boundaries Map</b><br> 
+  
+![](images/fig5.png)
+<p align="center">
+<b>figure 5: Divergence Boundary Map</b><br> 
+  
+![](images/fig6.png)
+<p align="center">
+<b>figure 6: Transform Boundary Map</b><br>   
+
+Results 3 a.) Earthquakes occur primarily on tectonic plate boundaries. This is due to the fact that at the grain boundaries relative motion of the plates can build stresses which induce earthquakes. Within the tectonic plate boundaries their is no direct causal force creating the stresses to generate earthquakes. So, we also see on all three maps above earthquakes occur on plate boundaries.
+
+Results 3 b.) Maximum, minimum, and average magnitude for all boundaries, a divergence, and a transform boundary were computed. See figure 7 for comparison of data. As stated in results 1 the Transform boundary has more powerful earthquakes than the divergence. This corroborates information found in literature which says Transform boundary types are known for powerful earthquakes [5].
+
+![](images/fig7.png)
+<p align="center">
+<b>figure 7: Raw Data Comparing Boundary Types</b><br>  
+  
+Results 3 c.) On April 24th 2015 the Axial Seamount underwater volcano exploded triggering significant seismic activity [4]. 8000 earthquakes in one day were recorded around the world. The Axial Seamount is off the coast of Oregon on the divergence boundary. So, earthquakes can be observed on the divergence boundary as well as the surrounding transform boundaries. All the boundaries are the same plates interacting so stresses can propogate to cause earthquake. See figure 8 for a Magnitude vs Time plot of April 2015 and figure 9 for a map showing where the earthquakes occur. Note that earthquakes occur around the Cable Axial Seamount and spread along the plate boundaries.
+
+![](images/fig8.png)
+<p align="center">
+<b>figure 8: Magnitude vs Time April 2015</b><br>  
+  
+![](images/fig9.png)
+<p align="center">
+<b>figure 9: Earthquake Locations April 2015</b><br>  
+
+Results 3 d.) Earthquakes occur mainly on plate boundaries, but not all boundaries are created equal. The earthquakes of a transform boundary are more powerful than on a convergence. In both the magnitude vs time plots of problem 1 and the averages of problem 3b the transform boundary produced more powerful earthquakes than the divergence. 
 
 <b>Conclusions</b><br>
 
