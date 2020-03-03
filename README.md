@@ -56,6 +56,8 @@ Results 1) Magnitude versus time for all the boundary types revealed the relativ
 ![](images/fig3.png)
 <p align="center">
 <b>figure 3: Magnitude vs Time Plots</b><br> 
+  
+Results 2)   
 
 <b>Conclusions</b><br>
 
