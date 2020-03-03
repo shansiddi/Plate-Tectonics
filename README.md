@@ -11,9 +11,21 @@ Analysis of earthquakes in the pacific north west 2010 to 2020 was conducted to 
 
 ![](images/fig1.jpg)
 <p align="center">
-<b>figure 1: Plate Boundaries of the World</b><br>
+<b>figure 1: Plate Boundaries of the World [1]</b><br>
 
-The analysis focused on comparing and contrasting divergence and trasform boundaries as well as documenting the erruption of the Axial Seamount on April 24th 2015.  
+The analysis focused on comparing and contrasting divergence and trasform boundaries as well as documenting the erruption of the Axial Seamount on April 24th 2015. The following questions were addressed in the analysis. 
+
+Problem 1) Plot earthquake magnitude versus time for the entire plate boundary, a transform boundary, and a divergence boundary. 
+
+Problem 2) Show earthquake locations (lat and lon) on a map by circles. The radius of these circles
+should be proportional to the earthquake magnitude.
+
+Problem 3) a. Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
+b. What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area (all boundaries)? 
+c. Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes
+to? 
+d. What kind of patterns in earthquake magnitude and location you observe over time along each boundary (compare the boundary types)?
+
 
 <b>Methods</b><br>
 
