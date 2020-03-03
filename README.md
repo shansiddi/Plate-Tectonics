@@ -20,11 +20,14 @@ Problem 1) Plot earthquake magnitude versus time for the entire plate boundary, 
 Problem 2) Show earthquake locations (lat and lon) on a map by circles. The radius of these circles
 should be proportional to the earthquake magnitude for the entire boundary, a transform boundary, and a divergence boundary.
 
-Problem 3) a. Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
-b. What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area (all boundaries)? 
-c. Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes
+Problem 3 a.) Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
+
+Problem 3 b.) What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area (all boundaries)? 
+
+Problem 3 c.) Map the earthquakes in April 2015. Where are those earthquakes mostly located? What event can you link these earthquakes
 to? 
-d. What kind of patterns in earthquake magnitude and location you observe over time along each boundary (compare the boundary types)?
+
+Problem 3 d.) What kind of patterns in earthquake magnitude and location you observe over time along each boundary (compare the boundary types)?
 
 A single transform and divergence boundary were selected for analysis. See figure 2 for the selections.
 
